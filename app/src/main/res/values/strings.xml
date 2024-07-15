@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">lesKtlIntent</string>
+    <string name="calc_text_BTN">Калькулятор</string>
+    <string name="sum_text_BTN">+</string>
+    <string name="text_back_to_main_BTN">Вычислить и вернуться назад</string>
+    <string name="text_hint_result_TV">РЕЗУЛЬТАТ</string>
+    <string name="hint_first_operand_ET">Первый операнд</string>
+    <string name="hint_second_operand_ET">Второй операнд</string>
+    <string name="text_sum_BTN">+</string>
+    <string name="text_sub_BTN">-</string>
+    <string name="text_mult_BTN">*</string>
+    <string name="text_div_BTN">/</string>
+</resources>
